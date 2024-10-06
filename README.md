@@ -1,4 +1,4 @@
-# YoloTraining - It Betyár - Safety hat recognition project
+# YoloTraining - Safety hat recognition project
 
 
 <img src="https://github.com/itbetyar/YoloTraining/blob/main/safety_hat_borito.webp" alt="IT Betyár Computer vision" width="400">
@@ -12,6 +12,3 @@
 ### Linkgyűjtemény
 - Honlapunk: [itbetyar.hu](http://itbetyar.hu)
 - AI Developer tanfolyam: [M.I. Fejlesztő képzés](https://itbetyar.hu/mesterseges-intelligencia-fejleszto-tanfolyam)
-
-
-https://github.com/itbetyar/YoloTraining/blob/main/safety_hat_borito.webp
