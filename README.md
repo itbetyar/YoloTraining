@@ -1,7 +1,7 @@
 # YoloTraining - Safety hat recognition project
 
-# Figyelem! Ezt az anyagot átköltöztettük a kaggle.com felületére.
-###Innen eléred: [kaggle.com-safety-helmet](https://www.kaggle.com/datasets/itbetyar/project-safety-hat)
+## Figyelem! Ezt az anyagot átköltöztettük a kaggle.com felületére.
+### Innen eléred: [kaggle.com-safety-helmet](https://www.kaggle.com/datasets/itbetyar/project-safety-hat)
 
 
 <img src="https://github.com/itbetyar/YoloTraining/blob/main/safety_hat_borito.webp" alt="IT Betyár Computer vision" width="400">
